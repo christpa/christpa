@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Christian Page, a researcher in computational epidemiology at the Norwegian Institute of Public Health. I have a background in genetic epidemiology, with a PhD from University of Oslo, Norway in 2016. 
+My name is Christian Page, researcher in computational epidemiology at the Norwegian Institute of Public Health. I have a background in genetic epidemiology, with a PhD from University of Oslo, Norway in 2016. 
 I have worked at as a researcher in both genetic and epigenetic epidemiology, as well as in statistics and modelling. My CV can be found here: https://christpa.github.io/cv.html. 
 
 ## Research Interests
